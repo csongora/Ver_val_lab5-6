@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Entities>
+    <homework ID="22">
+        <Description>fffrjfjfk</Description>
+        <Deadline>3</Deadline>
+        <Startline>1</Startline>
+    </homework>
+    <homework ID="1">
+        <Description>nem</Description>
+        <Deadline>11</Deadline>
+        <Startline>9</Startline>
+    </homework>
+    <homework ID="2">
+        <Description>nem</Description>
+        <Deadline>11</Deadline>
+        <Startline>9</Startline>
+    </homework>
+    <homework ID="123">
+        <Description>fgfgdf</Description>
+        <Deadline>3</Deadline>
+        <Startline>2</Startline>
+    </homework>
+    <homework ID="3">
+        <Description>nem</Description>
+        <Deadline>11</Deadline>
+        <Startline>9</Startline>
+    </homework>
+</Entities>
